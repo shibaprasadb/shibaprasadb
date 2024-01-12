@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shibaprasadb
-- 👀 I’m interested in Operations Research, Analytics and Data Science
-- 🌱 I’m currently working for Delhivery, India.
+- 👀 I’m interested in Decision Intelligence and Data Science
+- 🌱 I’m currently working for Air India.
 - 📫 You can reach me at: shibaprasad_04@outlook.com
 
 <!---
