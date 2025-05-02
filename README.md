@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shibaprasadb
 - 👀 I’m interested in Data Analytics, AI & Mathematical Modelling
 - 🌱 I’m currently working for Bristol Myers Squibb
-- 📫 You can reach me at: shibaprasad_04@outlook.com
+- 📫 You can reach me at: shibaprasad.b.mail@gmail.com
 - Check out my newsletter: [Data Signal](https://datasignal.substack.com)
 
 <!---
