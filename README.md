@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @shibaprasadb
-- 👀 I’m interested in Data Science, Analytics, Optimization & Strategy
-- 🌱 I’m currently working for Bristol Myers Squibb
-- 📫 You can reach me at: shibaprasad.b@outlook.com
-- Check out my newsletter: [Data Signal](https://datasignal.substack.com)
+Shibaprasad Bhattacharya
 
+I'm a data professional with a passion for using analytical methods to solve complex business challenges. My expertise spans data science, machine learning, and operations research, and I have a proven track record of applying these skills across diverse industries like pharma, logistics, and aviation.
+
+My approach is always problem-first: I frame ambiguous challenges, identify the critical metrics that matter, and build data-driven solutions that cut timelines, optimize processes, and enable better decisions.
+
+What I'm focused on:
+I am currently working at Bristol Myers Squibb, where I'm focused on developing innovative solutions that drive efficiency and strategic decision-making in the life sciences space.
+
+Connect with me:
+
+  📧 Email: shibaprasad.b@outlook.com
+
+  📝 Newsletter: Check out my newsletter, [Data Signal](https://datasignal.substack.com), for my latest thoughts on analytics and strategy.
+
+  🔗 Connect: You can find me on [LinkedIn](https://www.linkedin.com/in/shibaprasad-bhattacharya/).
 
 
 
