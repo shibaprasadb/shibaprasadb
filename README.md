@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shibaprasadb
 - 👀 I’m interested in Data Science, Analytics, Optimization & Strategy
 - 🌱 I’m currently working for Bristol Myers Squibb
-- 📫 You can reach me at: shibaprasad_04@outlook.com
+- 📫 You can reach me at: shibaprasad.b@outlook.com
 - Check out my newsletter: [Data Signal](https://datasignal.substack.com)
 
 
