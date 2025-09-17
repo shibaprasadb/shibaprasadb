@@ -7,7 +7,9 @@ My approach is always problem-first: I frame ambiguous challenges, identify the 
 What I'm focused on:
 I am currently working at Bristol Myers Squibb, where I'm focused on developing innovative solutions that drive efficiency and strategic decision-making in the life sciences space.
 
-Connect with me:
+Links:
+
+  🔗 [Website](https://shibaprasadb.github.io/)
 
   📧 Email: shibaprasad.b@outlook.com
 
