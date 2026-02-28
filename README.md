@@ -1,6 +1,6 @@
 Shibaprasad Bhattacharya
 
-I'm a data professional with a passion for using analytical methods to solve complex business challenges. My expertise spans data science, machine learning, and operations research, and I have a proven track record of applying these skills across diverse industries like pharma, logistics, and aviation.
+I'm a data science professional with a passion for using analytical methods to solve complex business challenges. My expertise spans analytics, machine learning, and operations research, and I have a proven track record of applying these skills across diverse industries like pharma, logistics, and aviation.
 
 My approach is always problem-first: I frame ambiguous challenges, identify the critical metrics that matter, and build data-driven solutions that cut timelines, optimize processes, and enable better decisions.
 
