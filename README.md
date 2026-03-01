@@ -1,5 +1,7 @@
 Shibaprasad Bhattacharya
 
+A strategy and analytics professional who solves problems at the intersection of data science, optimization, and business strategy.
+
 My approach is always problem-first: I frame ambiguous challenges, identify the critical metrics that matter, and build data-driven solutions that cut timelines, optimize processes, and enable better decisions.
 
 What I'm focused on:
